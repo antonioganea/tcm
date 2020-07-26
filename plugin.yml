@@ -1,0 +1,10 @@
+name: TCM
+version: 1.0
+description: Tony's Convenience Mod
+author: Antonio Ganea
+main: net.woozie.tcm.Main
+
+commands:
+  sort:
+    description: Sorts a chest
+    usage: /sort
